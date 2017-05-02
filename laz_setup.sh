@@ -1,5 +1,6 @@
 #!/bin/bash
 # Author of this script: http://www.getlazarus.org
+# Modified by Dio Affriza
 # This is the universal Linux script to install Free Pascal and Lazarus
 
 # If you need to fix something and or want to contribute, send your 
